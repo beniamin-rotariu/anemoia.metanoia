@@ -7,7 +7,10 @@
 
 ---
 
-# descrption: willkommen in meinem music repository. komm gerne immer wieder hier zurück um neuigkeiten einzusehen. danke für deinen besuch.
+# descrption: 
+<p>
+willkommen in meinem music repository. komm gerne immer wieder hier zurück um neuigkeiten einzusehen. danke für deinen besuch.
+</p>
 
 ```
 drum and bass - facourite songs
