@@ -13,8 +13,8 @@ willkommen in meinem music repository. komm gerne immer wieder hier zurück um n
 </p>
 
 ```
-drum and bass - facourite songs
+drum and bass
 lynnic - rise
 s.p.y - one last quest
-notsobad, ma-rk - let it go
+notsobad feat. ma-rk - let it go
 ```
